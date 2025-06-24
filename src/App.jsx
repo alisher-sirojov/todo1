@@ -47,7 +47,7 @@ const completedCount = todos.filter((todo) => todo.comleted).length;
 const uncompletedCount = todos.length - completedCount;
  return(
   <div>
-    <h1>my todo list</h1>
+    <h2> alisher</h2>
     <div>
 
       <input type="text" value={input}  
